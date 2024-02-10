@@ -9,8 +9,8 @@ This API endpoint allows you to generate an encrypted password using the specifi
 ### Parameters
 
 - `p`: The password to be encrypted. (Required)
-- `v`: The version of encryption. (Optional, default is 10)
-- `m`: The method of encryption. (Optional, default is fbapp)
+- `v`: The version of encryption. (examle : 11,10,9,8,7,6)
+- `m`: The method of encryption. (example : fbapp,fbweb,igapp,igweb)
 
 ## Example Usage
 
