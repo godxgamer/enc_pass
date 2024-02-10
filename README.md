@@ -20,4 +20,6 @@ This API endpoint allows you to generate an encrypted password using the specifi
 GET /api/pass_enc/?p=Gamer@123&v=10&m=fbapp HTTP/1.1
 Host: 128.140.99.16:5634
 ```
+### How to Use
+-You can make a GET request to the provided endpoint with the required parameters (p , v , m) to obtain the encrypted password.
 
