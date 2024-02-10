@@ -5,6 +5,9 @@
 
 ### Endpoint
 - http://128.140.99.16:5634/api/pass_enc/?p=Gamer@123&v=7&m=igapp
+- http://128.140.99.16:5634/api/pass_enc/?p=Gamer@123&v=7&m=igweb
+- http://128.140.99.16:5634/api/pass_enc/?p=Gamer@123&v=7&m=fbapp
+- http://128.140.99.16:5634/api/pass_enc/?p=Gamer@123&v=7&m=fbweb
 
 
 ### Parameters
