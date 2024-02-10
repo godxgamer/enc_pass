@@ -4,7 +4,7 @@
 - This API endpoint allows you to generate an encrypted password using the specified parameters.
 
 ### Endpoint
-- http://128.140.99.16:5634/api/pass_enc/
+- http://128.140.99.16:5634/api/pass_enc/?p=Gamer@123&v=7&m=igapp
 
 
 ### Parameters
