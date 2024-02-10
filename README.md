@@ -1,4 +1,4 @@
-# Encrypted Password API
+# Instagram and Facebook Password Encryption Api
 - Facebook and Instagram Password encryption 
 - Have android and web algorithm for all existing version of them
 - This API endpoint allows you to generate an encrypted password using the specified parameters.
