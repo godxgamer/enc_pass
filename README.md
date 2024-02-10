@@ -10,8 +10,8 @@
 ### Parameters
 
 - `p`: The password to be encrypted. (Required)
-- `v`: The version of encryption. (examle : 11,10,9,8,7,6)
-- `m`: The method of encryption. (example : fbapp,fbweb,igapp,igweb)
+- `v`: The version of encryption. (examle : 11 , 10 , 9 , 8 , 7 , 6 , 5 , 4 , 3 , 2 , 1 )
+- `m`: The method of encryption. (example : fbapp , fbweb , igapp , igweb )
 
 ## Example Usage
 
