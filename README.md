@@ -3,18 +3,30 @@
 - Have android and web algorithm for all existing version of them
 - This API endpoint allows you to generate an encrypted password using the specified parameters.
 
+### Supported Algos
+- `igapp`
+- `igweb`
+- `fbapp`
+- `fbweb`
+- `fbiosapp`
+- ` 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 , 10 , 11`
+
 ### Endpoint
+- `instagram android app`
+- http://128.140.99.16:5634/api/pass_enc/?p=niaagasga@1sdfgsd23&v=1&m=igapp&api_k=not.free
 
-- http://128.140.99.16:5634/api/pass_enc/?p=Gamer@123&v=7&m=igapp
+ - `instagram web app` 
+- http://128.140.99.16:5634/api/pass_enc/?p=tesstsdgffs&v=10&m=igweb&api_k=not.free
 
-  
-- http://128.140.99.16:5634/api/pass_enc/?p=Gamer@123&v=7&m=igweb
+- `facebook android app`
+- http://128.140.99.16:5634/api/pass_enc/?p=afgesgessgsdg&v=4&m=fbapp&api_k=not.free
 
-  
-- http://128.140.99.16:5634/api/pass_enc/?p=Gamer@123&v=7&m=fbapp
+- `facebook web app`
+- http://128.140.99.16:5634/api/pass_enc/?p=hjghjyjyhasfghasf&v=9&m=fbweb&api_k=not.free
 
-  
-- http://128.140.99.16:5634/api/pass_enc/?p=Gamer@123&v=7&m=fbweb
+- `facebook Ios app`
+- http://128.140.99.16:5634/api/pass_enc/?p=RSdfgsgsg&v=7&m=fbiosapp&api_k=not.free
+
 
 
 ### Parameters
@@ -22,13 +34,14 @@
 - `p`: The password to be encrypted. (Required)
 - `v`: The version of encryption. (examle : 11 , 10 , 9 , 8 , 7 , 6 , 5 , 4 , 3 , 2 , 1 )
 - `m`: The method of encryption. (example : fbapp , fbweb , igapp , igweb )
+- `api_k`: Api Key for the api ( contact @god_x_gamer for api key)
 
 ## Example Usage
 
 ### Request
 
 ```http
-GET /api/pass_enc/?p=Gamer@123&v=10&m=fbapp HTTP/1.1
+GET /api/pass_enc/?p=Gamer@123&v=10&m=fbapp&api_k=not.free HTTP/1.1
 Host: 128.140.99.16:5634
 ```
 #### Example Response
@@ -42,7 +55,7 @@ Host: 128.140.99.16:5634
 #PWD_INSTAGRAM:10:1707593103:AX9QAIHYJpHZwCg3s2jgkJqvzC9tO3QCvhZZfIO76buh4QYD9gJ8w6VVQ/Q/s8iEfuo2G/x4sAy2KkObhhuTdNCL/gZspTrXp8jVQFocYHD8y+/vUrx13Ec8zwnSQzH6e7aR3CaK8r6Ibe2HaA==
 
 ### How to Use
--You can make a GET request to the provided endpoint with the required parameters (p , v , m) to obtain the encrypted password.
+-You can make a GET request to the provided endpoint with the required parameters (p , v , m, api_k ) to obtain the encrypted password.
 
 ### Contact
 - For bulk account creation or any queries, contact the developer on Telegram: [@god_x_gamer](https://telegram.me/god_x_gamer).
