@@ -25,7 +25,7 @@
 - http://128.140.99.16:5634/api/pass_enc/?p=hjghjyjyhasfghasf&v=9&m=fbweb&api_k=not.free
 
 - `facebook Ios app`
-- http://128.140.99.16:5634/api/pass_enc/?p=RSdfgsgsg&v=7&m=fbiosapp&api_k=not.free
+- http://128.140.99.16:5634/api/pass_enc/?p=RSdfgsgsg&v=1&m=fbiosapp&api_k=not.free
 
 
 
