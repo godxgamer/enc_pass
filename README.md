@@ -11,6 +11,11 @@
 - `fbiosapp`
 - ` 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 , 10 , 11`
 
+## Price Unlimited Use
+- `50$`/Month Unlimited Requests
+- you can take demo to test the encryption working ,message me on @god_x_gamer telegram
+
+  
 ### Endpoint
 - `instagram android app`
 - http://128.140.99.16:5634/api/pass_enc/?p=niaagasga@1sdfgsd23&v=1&m=igapp&api_k=not.free
