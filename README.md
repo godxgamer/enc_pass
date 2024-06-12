@@ -3,6 +3,9 @@
 - Have android and web algorithm for all existing version of them
 - This API endpoint allows you to generate an encrypted password using the specified parameters.
 
+### FREE KEY ( valid till 17 june 2024 )
+- `free_till_17`
+
 ### Supported Algos
 - `igapp`
 - `igweb`
@@ -12,25 +15,25 @@
 - ` 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 , 10 , 11`
 
 ## Price Unlimited Use
-- `50$`/Month Unlimited Requests
+- `60$`/Month Unlimited Requests
 - you can take demo to test the encryption working ,message me on @god_x_gamer telegram
 
   
 ### Endpoint
 - `instagram android app`
-- http://128.140.99.16:5634/api/pass_enc/?p=niaagasga@1sdfgsd23&v=1&m=igapp&api_k=not.free
+- http://128.140.99.16:5884/api/pass_enc/?p=niaagasga@1sdfgsd23&v=1&m=igapp&api_k=not.free
 
  - `instagram web app` 
-- http://128.140.99.16:5634/api/pass_enc/?p=tesstsdgffs&v=10&m=igweb&api_k=not.free
+- http://128.140.99.16:5884/api/pass_enc/?p=tesstsdgffs&v=10&m=igweb&api_k=not.free
 
 - `facebook android app`
-- http://128.140.99.16:5634/api/pass_enc/?p=afgesgessgsdg&v=4&m=fbapp&api_k=not.free
+- http://128.140.99.16:5884/api/pass_enc/?p=afgesgessgsdg&v=4&m=fbapp&api_k=not.free
 
 - `facebook web app`
-- http://128.140.99.16:5634/api/pass_enc/?p=hjghjyjyhasfghasf&v=9&m=fbweb&api_k=not.free
+- http://128.140.99.16:5884/api/pass_enc/?p=hjghjyjyhasfghasf&v=9&m=fbweb&api_k=not.free
 
 - `facebook Ios app`
-- http://128.140.99.16:5634/api/pass_enc/?p=RSdfgsgsg&v=1&m=fbiosapp&api_k=not.free
+- http://128.140.99.16:5884/api/pass_enc/?p=RSdfgsgsg&v=1&m=fbiosapp&api_k=not.free
 
 
 
@@ -47,7 +50,7 @@
 
 ```http
 GET /api/pass_enc/?p=Gamer@123&v=10&m=fbapp&api_k=not.free HTTP/1.1
-Host: 128.140.99.16:5634
+Host: 128.140.99.16:5884
 ```
 #### Example Response
 
