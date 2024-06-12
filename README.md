@@ -3,8 +3,7 @@
 - Have android and web algorithm for all existing version of them
 - This API endpoint allows you to generate an encrypted password using the specified parameters.
 
-### FREE KEY ( valid till 17 june 2024 )
-- `free_till_17`
+
 
 ### Supported Algos
 - `igapp`
