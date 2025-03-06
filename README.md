@@ -5,6 +5,10 @@
 
 
 
+### Free Testing if you want to check
+- https://rapidapi.com/kuroyama0192/api/password-enc-api-instagram-facebook
+
+
 ### Supported Algos
 - `igapp`
 - `igweb`
